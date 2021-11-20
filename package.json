@@ -1,5 +1,6 @@
 {
-  "name": "utilities",
+  "name": "@mediahackza/utilities",
+  "url": "https://github.com/alastairotter",
   "version": "0.0.1",
   "description": "A set of basic utility functions.",
   "main": "index.js",
@@ -7,5 +8,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "github:mediahackza/utilities"
+  }
+
 }
