@@ -1,16 +1,14 @@
 {
   "name": "@mediahackza/utilities",
   "url": "https://github.com/alastairotter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A set of basic utility functions.",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "author": "",
   "license": "ISC",
   "repository": {
     "type": "git",
     "url": "github:mediahackza/utilities"
   }
-
 }
